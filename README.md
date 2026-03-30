@@ -1,12 +1,12 @@
-# Hi there 👋 I'm nyuji0524
+## Hi there 👋
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/-nyuji0524-24292e?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   <img src="https://img.shields.io/badge/Location-Ageo%2C%20Saitama-24292e?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location">
   <img src="https://img.shields.io/badge/Language-%E6%97%A5%E6%9C%AC%E8%AA%9E%20%7C%20%E1%86%A1%E1%87%A2%E1%86%A8-24292e?style=for-the-badge&logo=translate&logoColor=white" alt="Language">
 </p>
 
-<p align="center">
+<p align="left">
   👾 +81 && +82
 </p>
 
